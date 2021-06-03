@@ -1,1 +1,2 @@
-<h1>Datascience and machinelearning project<h1>
+# PredictiveStruggle - Bike sharing
+## Datascience and machinelearning group project
