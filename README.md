@@ -1,2 +1,2 @@
-# PredictiveStruggle - Bike sharing
+# PrescriptiveStruggle - Bike sharing
 Datascience and machinelearning group project
