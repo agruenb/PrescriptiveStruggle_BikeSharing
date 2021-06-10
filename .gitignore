@@ -3,6 +3,12 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# datasets
+Divvy_Stations_2016_Q1Q2.csv
+Divvy_Stations_2016_Q3.csv
+Divvy_Stations_2016_Q4.csv
+may_data.csv
+
 # C extensions
 *.so
 
