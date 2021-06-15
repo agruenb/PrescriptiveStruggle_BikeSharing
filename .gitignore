@@ -7,16 +7,13 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-<<<<<<< HEAD
 # DataSet
 chicago_2016.csv
-=======
 # datasets
 Divvy_Stations_2016_Q1Q2.csv
 Divvy_Stations_2016_Q3.csv
 Divvy_Stations_2016_Q4.csv
 may_data.csv
->>>>>>> e537727088593644e311ca1ff3daf43e3bb89808
 
 # C extensions
 *.so
@@ -142,3 +139,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+LeaWorkspace/chicago_2016.ipynb
+.DS_Store
+.DS_Store
