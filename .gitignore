@@ -8,6 +8,8 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# DataSet
+chicago_2016.csv
 # datasets
 Divvy_Stations_2016_Q1Q2.csv
 Divvy_Stations_2016_Q3.csv
@@ -138,3 +140,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+LeaWorkspace/chicago_2016.ipynb
+.DS_Store
+.DS_Store
