@@ -1,4 +1,0 @@
-To Do: 
-
-- import csv
-- 3.1 
