@@ -2,6 +2,7 @@
 chicago_2016.csv
 Divvy_Stations_2016_Q1Q2.csv
 weather_hourly_chicago.csv
+prediction_ready.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
